@@ -6,3 +6,6 @@
 ###### Sixth size
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+import math
+print(math.sqrt(4) + 2)
