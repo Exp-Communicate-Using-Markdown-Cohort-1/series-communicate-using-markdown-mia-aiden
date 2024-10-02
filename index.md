@@ -9,3 +9,7 @@
 
 import math
 print(math.sqrt(4) + 2)
+
+- [ ] Turn on the github page
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
